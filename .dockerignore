@@ -1,0 +1,40 @@
+ Build outputs
+build/
+target/
+out/
+*.jar
+*.war
+
+# Gradle
+.gradle/
+gradle/wrapper/*.jar
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.settings/
+.classpath
+.project
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+HELP.md
+
+# Test files
+.pytest_cache/
+.coverage
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
