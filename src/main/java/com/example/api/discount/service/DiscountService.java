@@ -1,8 +1,8 @@
-package com.app.discount.service;
+package com.example.api.discount.service;
 
-import com.app.discount.dto.DiscountItemDTO;
-import com.app.discount.dto.DiscountRequest;
-import com.app.discount.dto.DiscountResponse;
+import com.example.api.discount.dto.DiscountItemDTO;
+import com.example.api.discount.dto.DiscountRequest;
+import com.example.api.discount.dto.DiscountResponse;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

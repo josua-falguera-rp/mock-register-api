@@ -1,4 +1,4 @@
-package com.app.discount.dto;
+package com.example.api.discount.dto;
 
 public record DiscountProductDTO(
         String upc,

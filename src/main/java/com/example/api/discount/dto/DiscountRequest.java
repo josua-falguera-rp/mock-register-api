@@ -1,4 +1,4 @@
-package com.app.discount.dto;
+package com.example.api.discount.dto;
 
 import java.util.List;
 

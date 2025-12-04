@@ -1,8 +1,8 @@
-package com.app.discount.controller;
+package com.example.api.discount.controller;
 
-import com.app.discount.dto.DiscountRequest;
-import com.app.discount.dto.DiscountResponse;
-import com.app.discount.service.DiscountService;
+import com.example.api.discount.dto.DiscountRequest;
+import com.example.api.discount.dto.DiscountResponse;
+import com.example.api.discount.service.DiscountService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
